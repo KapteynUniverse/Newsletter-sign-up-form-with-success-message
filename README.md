@@ -31,13 +31,22 @@ Users should be able to:
 
 ### Screenshot
 
-| Desktop View                  | Success View                  | Mobile View                  |
-| ----------------------------- | ----------------------------- | ---------------------------- |
-| ![](./screenshot/desktop.png) | ![](./screenshot/success.png) | ![](./screenshot/mobile.png) |
+<p align="center">
+  <img src="./screenshot/desktop.png" alt="Desktop View" width="32%" />
+  <img src="./screenshot/success.png" alt="Success View" width="32%" />
+  <img src="./screenshot/mobile.png" alt="Mobile View" width="32%" />
+</p>
 
-| Empty Inputs                      | Invalid Inputs                      |
-| --------------------------------- | ----------------------------------- |
-| ![](./screenshot/empty-input.png) | ![](./screenshot/invalid-input.png) |
+<!-- Highlight mobile full -->
+<p align="center">
+  <img src="./screenshot/mobile.png" alt="Mobile Full View" width="60%" />
+</p>
+
+<!-- Bottom row -->
+<p align="center">
+  <img src="./screenshot/empty-input.png" alt="Empty Inputs" width="45%" />
+  <img src="./screenshot/invalid-input.png" alt="Invalid Inputs" width="45%" />
+</p>
 
 ### Links
 
