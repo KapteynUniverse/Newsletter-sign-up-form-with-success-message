@@ -32,9 +32,8 @@ Users should be able to:
 ### Screenshot
 
 <p align="center">
-  <img src="./screenshot/desktop.png" alt="Desktop View" width="32%" />
-  <img src="./screenshot/success.png" alt="Success View" width="32%" />
-  <img src="./screenshot/mobile.png" alt="Mobile View" width="32%" />
+  <img src="./screenshot/desktop.png" alt="Desktop View" width="50%" />
+  <img src="./screenshot/success.png" alt="Success View" width="50%" />
 </p>
 
 <!-- Highlight mobile full -->
