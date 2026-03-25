@@ -31,21 +31,26 @@ Users should be able to:
 
 ### Screenshot
 
-<p align="center">
-  <img src="./screenshot/desktop.png" alt="Desktop View" width="50%" />
-  <img src="./screenshot/success.png" alt="Success View" width="50%" />
-</p>
+<table>
+  <tr>
+    <th>Desktop View</th>
+    <th>Success View</th>
+    <th>Mobile View</th>
+  </tr>
 
-<!-- Highlight mobile full -->
-<p align="center">
-  <img src="./screenshot/mobile.png" alt="Mobile Full View" width="60%" />
-</p>
+  <tr>
+    <td><img src="./screenshot/desktop.png" /></td>
+    <td><img src="./screenshot/success.png" /></td>
+    <td rowspan="2">
+      <img src="./screenshot/mobile.png" />
+    </td>
+  </tr>
 
-<!-- Bottom row -->
-<p align="center">
-  <img src="./screenshot/empty-input.png" alt="Empty Inputs" width="45%" />
-  <img src="./screenshot/invalid-input.png" alt="Invalid Inputs" width="45%" />
-</p>
+  <tr>
+    <td><img src="./screenshot/empty-input.png" /></td>
+    <td><img src="./screenshot/invalid-input.png" /></td>
+  </tr>
+</table>
 
 ### Links
 
