@@ -31,13 +31,13 @@ Users should be able to:
 
 ### Screenshot
 
-| Desktop View                  | Mobile View                  |
-| ----------------------------- | ---------------------------- |
-| ![](./screenshot/desktop.png) | ![](./screenshot/mobile.png) |
+| Desktop View                  | Success View                  | Mobile View                  |
+| ----------------------------- | ----------------------------- | ---------------------------- |
+| ![](./screenshot/desktop.png) | ![](./screenshot/success.png) | ![](./screenshot/mobile.png) |
 
-| Empty Inputs                       | Invalid Inputs                       |
-| ---------------------------------- | ------------------------------------ |
-| ![](./screenshot/empty-inputs.png) | ![](./screenshot/invalid-inputs.png) |
+| Empty Inputs                      | Invalid Inputs                      |
+| --------------------------------- | ----------------------------------- |
+| ![](./screenshot/empty-input.png) | ![](./screenshot/invalid-input.png) |
 
 ### Links
 
