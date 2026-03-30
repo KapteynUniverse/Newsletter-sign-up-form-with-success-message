@@ -34,27 +34,39 @@ Users should be able to:
 <table>
   <tr>
     <th>Desktop View</th>
+    <th>Invalid Inputs View</th>
     <th>Mobile View</th>
   </tr>
 
+  <!-- Row 1 -->
   <tr>
-    <td><img src="./screenshot/desktop.png" /></td>
-    <td rowspan="6"><img src="./screenshot/mobile.png" /></td>
+    <td><img src="./screenshot/desktop.png" alt="Desktop View" /></td>
+    <td><img src="./screenshot/empty-input.png" alt="Empty Input" /></td>
+    <td rowspan="5"><img src="./screenshot/mobile.png" alt="Mobile View" /></td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td><img src="./screenshot/empty-input.png" /></td>
+    <td><img src="./screenshot/invalid-input.png" alt="Invalid Input" /></td>
+    <td><img src="./screenshot/invalid-input.png" alt="Invalid Input" /></td>
   </tr>
+
+  <!-- Row 3 -->
   <tr>
-    <td><img src="./screenshot/invalid-input.png" /></td>
+    <td><img src="./screenshot/success.png" alt="Success Desktop" /></td>
+    <td><img src="./screenshot/success.png" alt="Success Invalid Input" /></td>
   </tr>
+
+  <!-- Row 4 -->
   <tr>
-    <td><img src="./screenshot/success.png" /></td>
+    <td><img src="./screenshot/another-desktop.png" alt="Another Desktop View" /></td>
+    <td><img src="./screenshot/another-invalid.png" alt="Another Invalid Input View" /></td>
   </tr>
+
+  <!-- Row 5 -->
   <tr>
-    <td><img src="./screenshot/another-desktop.png" /></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshot/final-desktop.png" /></td>
+    <td><img src="./screenshot/final-desktop.png" alt="Final Desktop View" /></td>
+    <td><img src="./screenshot/final-invalid.png" alt="Final Invalid Input View" /></td>
   </tr>
 </table>
 
