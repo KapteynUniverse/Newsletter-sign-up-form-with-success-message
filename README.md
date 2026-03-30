@@ -34,21 +34,27 @@ Users should be able to:
 <table>
   <tr>
     <th>Desktop View</th>
-    <th>Invalid Inputs View</th>
     <th>Mobile View</th>
   </tr>
 
   <tr>
     <td><img src="./screenshot/desktop.png" /></td>
-    <td><img src="./screenshot/empty-input.png" /></td>
-    <td rowspan="2">
-      <img src="./screenshot/mobile.png" />
-    </td>
+    <td rowspan="6"><img src="./screenshot/mobile.png" /></td>
   </tr>
-
+  <tr>
+    <td><img src="./screenshot/empty-input.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/invalid-input.png" /></td>
+  </tr>
   <tr>
     <td><img src="./screenshot/success.png" /></td>
-    <td><img src="./screenshot/invalid-input.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/another-desktop.png" /></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshot/final-desktop.png" /></td>
   </tr>
 </table>
 
