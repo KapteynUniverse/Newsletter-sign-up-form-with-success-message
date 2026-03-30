@@ -34,39 +34,41 @@ Users should be able to:
 <table>
   <tr>
     <th>Desktop View</th>
-    <th>Invalid Inputs View</th>
     <th>Mobile View</th>
   </tr>
 
-  <!-- Row 1 -->
+  <!-- Row 1: Desktop header + Mobile image (spanning 6 rows) -->
   <tr>
-    <td><img src="./screenshot/desktop.png" alt="Desktop View" /></td>
+    <td><strong>Desktop View</strong></td>
+    <td rowspan="6"><img src="./screenshot/mobile.png" alt="Mobile View" /></td>
+  </tr>
+
+  <!-- Row 2: Desktop image -->
+  <tr>
+    <td><img src="./screenshot/desktop.png" alt="Desktop View Image" /></td>
+  </tr>
+
+  <!-- Row 3: Invalid Inputs header -->
+  <tr>
+    <td><strong>Invalid Inputs</strong></td>
+  </tr>
+
+  <!-- Row 4: Empty input image -->
+  <tr>
     <td><img src="./screenshot/empty-input.png" alt="Empty Input" /></td>
-    <td rowspan="5"><img src="./screenshot/mobile.png" alt="Mobile View" /></td>
   </tr>
 
-  <!-- Row 2 -->
+  <!-- Row 5: Invalid input image -->
   <tr>
     <td><img src="./screenshot/invalid-input.png" alt="Invalid Input" /></td>
-    <td><img src="./screenshot/invalid-input.png" alt="Invalid Input" /></td>
   </tr>
 
-  <!-- Row 3 -->
+  <!-- Row 6: Success header + success image -->
   <tr>
-    <td><img src="./screenshot/success.png" alt="Success Desktop" /></td>
-    <td><img src="./screenshot/success.png" alt="Success Invalid Input" /></td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td><img src="./screenshot/another-desktop.png" alt="Another Desktop View" /></td>
-    <td><img src="./screenshot/another-invalid.png" alt="Another Invalid Input View" /></td>
-  </tr>
-
-  <!-- Row 5 -->
-  <tr>
-    <td><img src="./screenshot/final-desktop.png" alt="Final Desktop View" /></td>
-    <td><img src="./screenshot/final-invalid.png" alt="Final Invalid Input View" /></td>
+    <td>
+      <strong>Success</strong><br />
+      <img src="./screenshot/success.png" alt="Success Image" />
+    </td>
   </tr>
 </table>
 
